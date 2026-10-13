@@ -1,0 +1,5 @@
+Flask
+Werkzeug
+torch
+torchvision
+Pillow
